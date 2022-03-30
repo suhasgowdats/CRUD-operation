@@ -1,0 +1,33 @@
+.from-body{
+    padding: 30px;
+  }
+  form>input{
+    padding: 5px;
+    width: 400px;
+    border-radius: 5px;
+    margin: 5px;
+  }
+  form>button{
+    padding: 10px;
+    background-color: cornflowerblue;
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  tabel>thead{
+    background-color: rgb(201, 200, 200);
+  }
+  table,thead,tbody,tr,td{
+    border:1px solid rgb(201, 200, 200);
+    padding: 5px;
+    color: black;
+  }
+  table,tbody,tr,td{
+    border:1px solid rgb(221, 220, 220);
+    padding: 5px;
+  }
+  
+  .tabel-body{
+    padding-left: 30px;
+  }
